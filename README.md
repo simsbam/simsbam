@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I,m Sims</h2>
+<h2 align="center">Hi there 👋, I'm Sims</h2>
 
 <p align="center">
   🎓 Actuarial Science Graduate | 📊 Aspiring Data Analyst <br>
