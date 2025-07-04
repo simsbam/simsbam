@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="100" alt="Power BI Logo" />
-</p>
-
 <h2 align="center">Hi there 👋, I,m Sims</h2>
 
 <p align="center">
